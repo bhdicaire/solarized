@@ -13,7 +13,7 @@ Visual works well to communicate business, IT and security requirements if you d
 ## Dark color scheme
 ![solarized dark](https://github.com/bhdicaire/solarized/raw/master/img/darkScheme.png)
 ___
-### [Click here to download the latest version](https://github.com/bhdicaire/solarized/raw/master/img/solarizedCheatSheet.pdf)
+**[Click here to download the Solarized Cheat Sheet](https://github.com/bhdicaire/solarized/raw/master/img/solarizedCheatSheet.pdf)**
 ## Licence
 Solarized is licensed by [Ethan Schoonover](https://github.com/altercation/solarized/blob/master/LICENSE) under the
 MIT License.
