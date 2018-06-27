@@ -12,21 +12,15 @@ Visual works well to communicate business, IT and security requirements if you d
 ![solarized dark](https://github.com/bhdicaire/solarized/raw/master/img/lightScheme.png)
 ## Dark color scheme
 ![solarized dark](https://github.com/bhdicaire/solarized/raw/master/img/darkScheme.png)
-
-## Download
-
+___
 ### [Click here to download the latest version](https://github.com/bhdicaire/solarized/raw/master/img/solarizedCheatSheet.pdf)
-
-## Contributing
-As I use this for my own projects, I know this might not be the perfect approach for you. If you have any ideas, just open an issue and tell me what you think.
 ## Licence
-
 Solarized is licensed by [Ethan Schoonover](https://github.com/altercation/solarized/blob/master/LICENSE) under the
 MIT License.
 
-CC-BY-SA-4.0
+Solarized Cheat Sheet are licensed [CC-BY-SA-4.0](https://github.com/bhdicaire/solarized/raw/master/LICENCSE). This licence is recommended by [Choose a License.com](choosealicense.com/) for non-software material such as documentation.
 ## Contributing
-If you'd like to contribute, please fork the repository and make changes to the source files as you'd like. You'll need the current version of [OmnniGraffle](https://www.omnigroup.com/omnigraffle/). and several free [IBM Plex Sans fonts](https://github.com/IBM/plex) (e.g. light, medium and semiBold.). 
+As I use this for my own projects, I know this might not be the perfect approach for you. If you have any ideas, just open an issue and tell me what you think. You'll need the current version of [OmnniGraffle](https://www.omnigroup.com/omnigraffle/) and several free [IBM Plex Sans fonts](https://github.com/IBM/plex) (e.g. light, medium and semiBold.). 
 
 The current [Apple Color Palette .clr file](https://github.com/altercation/solarized/tree/master/apple-colorpalette-solarized) is available in the ``src`` directory.
 
