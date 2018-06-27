@@ -6,7 +6,7 @@ Many applications and terminal console support Solarized. You can also use it to
 
 Visual works well to communicate business, IT and security requirements if you don’t spend hours agonizing over the fundamental layers such as colours, and line width. The cheat sheet help me standardize my diagrams no matter the stakeholders. After all, artefacts are most effective when they remain in eyesight as a constant reminder of what is being worked on and why.
 
-<a name="note">1</a>: Only the background and the body text colours are dedicated to a specific mode. Thirteen out of sixteen are shared.
+  <a name="note">*1*</a>: Only the background and the body text colours are dedicated to a specific mode. Thirteen out of sixteen are shared.
 
 ## Light color scheme
 ![solarized dark](https://github.com/bhdicaire/solarized/raw/master/img/lightScheme.png)
