@@ -1,12 +1,12 @@
 ![solarized logo](https://github.com/bhdicaire/solarized/raw/master/img/solarizedLogo.png)
 
-The solarized colour scheme by [Ethan Schoonover](https://twitter.com/ethanschoonover) reduce eye strain and maximize readability. The low contrast palette is designed to use the same hues with a light or a dark background.1
+The solarized colour scheme by [Ethan Schoonover](https://twitter.com/ethanschoonover) reduce eye strain and maximize readability. The low contrast palette is designed to use the same hues with a light or a dark background<sup>[1](#note)</sup>.
 
 Many applications and terminal console support Solarized. You can also use it to build web site related artefacts such as information architecture, and page layout, interactions & controls. Personally, I use the palette to expound context, describe user profiles, and document workshop findings.
 
 Visual works well to communicate business, IT and security requirements if you don’t spend hours agonizing over the fundamental layers such as colours, and line width. The cheat sheet help me standardize my diagrams no matter the stakeholders. After all, artefacts are most effective when they remain in eyesight as a constant reminder of what is being worked on and why.
 
-1. Only the background and the body text colours are dedicated to a specific mode. Thirteen out of sixteen are shared.
+<a name="note">1</a>: Only the background and the body text colours are dedicated to a specific mode. Thirteen out of sixteen are shared.
 
 ## Light color scheme
 ![solarized dark](https://github.com/bhdicaire/solarized/raw/master/img/lightScheme.png)
