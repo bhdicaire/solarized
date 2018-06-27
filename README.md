@@ -18,17 +18,17 @@ ___
 Solarized is licensed by [Ethan Schoonover](https://github.com/altercation/solarized/blob/master/LICENSE) under the
 MIT License.
 
-Solarized Cheat Sheet are licensed [CC-BY-SA-4.0](https://github.com/bhdicaire/solarized/raw/master/LICENCSE). This licence is recommended by [Choose a License.com](choosealicense.com/) for non-software material such as documentation.
+Solarized Cheat Sheet are licensed [CC-BY-SA-4.0](https://github.com/bhdicaire/solarized/raw/master/LICENCSE). This licence is recommended by [Choose a License.com](https://choosealicense.com/) for non-software material such as documentation.
 ## Contributing
-As I use this for my own projects, I know this might not be the perfect approach for you. If you have any ideas, just open an issue and tell me what you think. You'll need the current version of [OmnniGraffle](https://www.omnigroup.com/omnigraffle/) and several free [IBM Plex Sans fonts](https://github.com/IBM/plex) (e.g. light, medium and semiBold.). 
+As I use this for my own projects, I know this might not be the perfect approach for you. If you have any ideas, just open an issue and tell me what you think :speech_balloon:.
 
-The current [Apple Color Palette .clr file](https://github.com/altercation/solarized/tree/master/apple-colorpalette-solarized) is available in the ``src`` directory.
+You'll need the current version of [OmnniGraffle](https://www.omnigroup.com/omnigraffle/) and several free [IBM Plex Sans fonts](https://github.com/IBM/plex) (e.g. light, medium and semiBold.). The current [Apple Color Palette .clr file](https://github.com/altercation/solarized/tree/master/apple-colorpalette-solarized) is available in the ``src`` directory.
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/whatEver`)
 3. Commit your changes (`git commit -am 'Add some whatEver'`)
 4. Push to the branch (`git push origin feature/whatEver`)
-5. Create a new Pull Request :)
+5. Create a new Pull Request :grin:
 
 ## Related projects
 * [Ethan Schoonover's Solarized project page](http://ethanschoonover.com/solarized)
